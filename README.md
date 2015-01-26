@@ -1,0 +1,1 @@
+The goal of this script is to append an extra set of curly brackets in front of title part of the citation to preserve proper capitalization in BibTeX. This is designed to be run from the command line and requires an input and output bib files.
